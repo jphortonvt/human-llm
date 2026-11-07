@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/components/emergencecloud.tsx","./src/components/lockedresponse.tsx","./src/hooks/usesse.ts","./src/hooks/usesession.ts","./src/lib/api.ts","./src/routes/curator.tsx","./src/routes/display.tsx","./src/routes/vote.tsx"],"version":"5.9.3"}
